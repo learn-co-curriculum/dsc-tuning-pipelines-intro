@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 39 and why they'll be important to you as a data scientist.
+In this section, you'll learn about machine learning pipelines. Pipelines are extremely useful for allowing data scientists to quickly and consistently transform data, train, and use machine learning models. This lesson will summarize the key topics you'll be covering.
 
 ## Objectives
 You will be able to:
