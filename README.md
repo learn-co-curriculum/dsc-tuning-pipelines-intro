@@ -6,7 +6,7 @@ In this section, you'll learn about machine learning pipelines. Pipelines are ex
 
 ## Building a Machine Learning Pipeline
 
-By now, you know that the data science process is a flow of activities, from inspecting the data to cleaning it, transforming it, running a model and discussing the result. Wouldn't it be nice if there was a streamlined process to create nice machine learning workflows? Enter machine learning pipelines in scikit-learn!
+By now, you know that the data science process is a flow of activities, from inspecting the data to cleaning it, transforming it, running a model, and discussing the results. Wouldn't it be nice if there was a streamlined process to create nice machine learning workflows? Enter machine learning pipelines in scikit-learn!
 
 In this section, you'll learn how you can use a pipeline to integrate several steps of the machine learning workflow. Additionally, you'll compare several classification techniques with each other, and integrate grid search in your pipeline so you can tune several hyperparameters in each of the machine learning models.
 
